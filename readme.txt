@@ -10,7 +10,7 @@ This plugin adds a widget that displays information on your Final Fantasy XI cha
 
 == Description ==
 
-This plugin adds a widget that displays information on your Final Fantasy XI character. This information must be manually entered using the provided profile editor, under the 'Appearance' menu in your WordPress administration. Quick updates to your character (including main job level and a small status field) can be entered using the Dashboard widget.
+This plugin adds a widget that displays information on your Final Fantasy XI character. The information is entered using the provided profile editor, under the 'Appearance' menu in your WordPress administration. Quick updates to your character (including main job level and a small status field) can be entered using the Dashboard widget.
 
 == Installation ==
 
@@ -22,11 +22,12 @@ This plugin adds a widget that displays information on your Final Fantasy XI cha
 
 = Why aren't there any questions yet? =
 
-No-ones asked any questions! Questions and suggestions can be left on the [project page](http://wp.rakhama.com/projects/ffxi-character-profile/)
+No-one's asked any questions! Questions and suggestions can be left on the [project page](http://wp.rakhama.com/projects/ffxi-character-profile/).
 
 == Screenshots ==
 
 1. An example widget. The information shown here does not include all configurable properties (e.g. sub-job, as my character does not yet have a sub-job, or linkshell).
+2. Part of the profile editor.
 
 == Changelog ==
 
