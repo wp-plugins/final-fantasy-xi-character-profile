@@ -1,6 +1,5 @@
 === Plugin Name ===
 Contributors: Eraph
-Donate link: http://wp.rakhama.com
 Tags: final fantasy, final fantasy xi, ffxi, ff11, character, profile
 Requires at least: 2.9.2
 Tested up to: 2.9.2
