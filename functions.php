@@ -30,7 +30,7 @@ function build_face_table($sel_race, $sel_gender, $sel_face, $sel_hair) {
 		foreach($faces as $face) {
 			$output .= "<td style=\"text-align: center;\" name=\"" . $face . $hair . "\"><input type=\"radio\" name=\"face\" value=\"" . $face . $hair . "\"";
 			if($face == $sel_face && $hair == $sel_hair) $output .= " checked";
-			$output .= "/><br /><img src=\"" . get_bloginfo(wpurl) . "/wp-content/plugins/ffxi-char-profile/img/" . $prefix . $face . $hair . ".jpg\" width=\"70\" height=\"65\" style=\"border: 1px solid #000000;\"></td>\n";
+			$output .= "/><br /><img src=\"" . get_bloginfo(wpurl) . "/wp-content/plugins/final-fantasy-xi-character-profile/img/" . $prefix . $face . $hair . ".jpg\" width=\"70\" height=\"65\" style=\"border: 1px solid #000000;\"></td>\n";
 		}
 		$output .= "</tr>\n";
 	}

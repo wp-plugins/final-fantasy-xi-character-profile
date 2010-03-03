@@ -21,7 +21,7 @@ function ffxi_char_profile_dash_display() {
 		}
 		?>
 		<div class="wrap">
-			<script type="text/javascript" src="<?php echo get_bloginfo(wpurl); ?>/wp-content/plugins/ffxi-char-profile/ffxi-char.js"></script>
+			<script type="text/javascript" src="<?php echo get_bloginfo(wpurl); ?>/wp-content/plugins/final-fantasy-xi-character-profile/ffxi-char.js"></script>
 			<form method="post" action="">
 				<input type="hidden" name="ffxi_char_profile_submitted" value="Y" />
 				<?php wp_nonce_field('update-options'); ?>

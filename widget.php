@@ -27,7 +27,7 @@ function show_ffxi_char() {
 		}
 	?>
 	<h4 style="border-bottom: dotted 1px;"><?php echo $charinfo["name"] . $jobdisplay ?></h4>
-	<img style="float: right; border: #000000 solid 1px; margin: 4px;" src="<?php echo get_bloginfo(wpurl); ?>/wp-content/plugins/ffxi-char-profile/img/<?php
+	<img style="float: right; border: #000000 solid 1px; margin: 4px;" src="<?php echo get_bloginfo(wpurl); ?>/wp-content/plugins/final-fantasy-xi-character-profile/img/<?php
 	echo get_face_prefix($charinfo["race"], $charinfo["gender"]) . $charinfo["face"] . $charinfo["faceversion"]; ?>.jpg"/>
 	<ul style="margin-top: 4px;"><li><strong>Race:</strong> <?php echo $charinfo["race"]; ?></li>
 		<li><strong>Gender:</strong> <?php echo $charinfo["gender"]; ?></li>

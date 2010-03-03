@@ -14,7 +14,7 @@ This information must be manually entered using the provided profile editor. Qui
 
 == Installation ==
 
-1. Upload the 'ffxi-char-profile' folder into the '/wp-content/plugins/' directory.
+1. Upload the 'final-fantasy-xi-character-profile' folder into the '/wp-content/plugins/' directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress administration.
 3. Add the widget to your page using the 'Widgets' menu.
 
