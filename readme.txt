@@ -10,7 +10,7 @@ This plugin adds a widget that displays information on your Final Fantasy XI cha
 
 == Description ==
 
-This information must be manually entered using the provided profile editor. Quick updates to your character (including main job level and a small status field) can be entered using the Dashboard widget.
+This plugin adds a widget that displays information on your Final Fantasy XI character. This information must be manually entered using the provided profile editor, under the 'Appearance' menu in your WordPress administration. Quick updates to your character (including main job level and a small status field) can be entered using the Dashboard widget.
 
 == Installation ==
 
