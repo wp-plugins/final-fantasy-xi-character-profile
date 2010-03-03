@@ -22,7 +22,7 @@ This information must be manually entered using the provided profile editor. Qui
 
 = Why aren't there any questions yet? =
 
-No-ones asked any questions! Questions and suggestions can be left on the [project page](http://wp.rakhama.com/projects/ffxi-character-profile/ "Final Fantasy XI Character Profile project page")
+No-ones asked any questions! Questions and suggestions can be left on the [project page](http://wp.rakhama.com/projects/ffxi-character-profile/)
 
 == Screenshots ==
 
