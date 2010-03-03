@@ -18,7 +18,22 @@ This information must be manually entered using the provided profile editor. Qui
 2. Activate the plugin through the 'Plugins' menu in WordPress administration.
 3. Add the widget to your page using the 'Widgets' menu.
 
+== Frequently Asked Questions ==
+
+= Why aren't there any questions yet? =
+
+No-ones asked any questions! Questions and suggestions can be left on the [project page](http://wp.rakhama.com/projects/ffxi-character-profile/ "Final Fantasy XI Character Profile project page")
+
+== Screenshots ==
+
+1. An example widget. The information shown here does not include all configurable properties (e.g. sub-job, as my character does not yet have a sub-job, or linkshell).
+
 == Changelog ==
 
 = 1.0 =
 * Released!
+
+== Upgrade Notice ==
+
+= 1.0 =
+First version!
