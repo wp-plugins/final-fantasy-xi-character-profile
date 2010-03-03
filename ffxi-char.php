@@ -1,9 +1,4 @@
 <?php
-/**
- * @package FFXI_Character_Profile
- * @author Phil Watson
- * @version 1
- */
 /*
 Plugin Name: Final Fantasy XI Character Profile
 Plugin URI: http://wp.rakhama.com/projects/ffxi-character-profile/
